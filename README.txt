@@ -1,0 +1,1 @@
+Este documento de texto faz parte do primeiro commit do projeto de Software Seguro.
